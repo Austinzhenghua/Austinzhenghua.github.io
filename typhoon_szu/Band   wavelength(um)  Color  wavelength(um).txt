@@ -1,0 +1,4 @@
+Band   wavelength(um)  Color  wavelength(um)
+08          6.2			R         0.64
+09			6.9			G 		  0.51
+10			7.3			B 		  0.47
