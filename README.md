@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Portfolio site 2017
 
-You can use the [editor on GitHub](https://github.com/Austinzhenghua/Austinzhenghua.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### LINK: https://dalinhuang99.github.io/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+:sunglasses::sunglasses::sunglasses: <br>
+:sunglasses::flushed::sunglasses: <br>
+:sunglasses::sunglasses::sunglasses: <br>
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Note: if you would like to clone this mini portfolio page:**
 
-```markdown
-Syntax highlighted code block
+Remove the google analytics code at the head of `index.html` please 🙏(or setup one for yourself 😃)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107490980-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+        gtag('config', 'UA-107490980-1');
+    </script>
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+#### Nov 11, 2017
+* redesign/update page 1
+* style fixes, added particles-js, added btn to switch style (page 1)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Austinzhenghua/Austinzhenghua.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Oct 22, 2017
+* minor update
 
-### Support or Contact
+#### Oct 19 - Oct 20, 2017
+* Page 3 update, Blockchain (SHA-256) style for working experience section
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Oct 18, 2017
+* few updates (Page 2)
+* Latest Google Chrome is breaking my customized scroll bar =(, causing the drag not working...
+
+#### Oct 12, 2017
+
+* Add About Me terminal type style =D
+
+
