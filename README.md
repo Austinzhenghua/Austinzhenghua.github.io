@@ -1,3 +1,3 @@
 # Austinzhenghua.github.io
-austin.github.io
+austinzhenghua.github.io
 This is my homepage 
